@@ -1,11 +1,10 @@
 <!-- PHGHuyDev -->
-<a href="#" target="_blank">
-  <img src="svg/phghuydev.svg" width="1200" alt="phghuydev-official" />
-</a>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=61dafb&size=25&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Node+%7C+MongoDB;Welcome+to+my+GitHub" />
 </p>
+<a href="#" target="_blank">
+  <img src="svg/phghuydev.svg" width="1200" alt="phghuydev-official" />
+</a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
