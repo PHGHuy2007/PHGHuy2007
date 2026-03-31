@@ -68,7 +68,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://photo.phghuy.dev" target="blank">
+  <a href="https://phghuy.photo" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a>
   <a href="https://www.facebook.com/GiaHuyPH" target="blank">
