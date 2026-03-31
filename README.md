@@ -69,7 +69,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://phghuy.studio" target="blank">
-    <img width="90" height="90" src="images/LMT00847 (1).jpeg" alt="trungquandev-blog" />
+    <img width="90" height="90" src="images/LMT00847 (1).jpeg" alt="trungquandev-blog" style="border-radius: 10px;" />
   </a>
   <a href="https://www.facebook.com/GiaHuyPH" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
